@@ -11,7 +11,7 @@
 
 <p>
  
-  &nbsp &nbsp
+  
   <a href="https://www.linkedin.com/in/sachin-rahane-95496b198/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelcolor=blue" style="max-width: 100%;">
   </a>
